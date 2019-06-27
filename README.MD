@@ -1,4 +1,7 @@
 # FizzBuzz Game
 
-Print all numbers in this range but replace multiples of 3 with **"Fizz"** and multipes of 5 with **"Buzz"**
-Range (1-300)
+Print array of numbers but replace:
+  * multiples of 3 with **"Fizz"**
+  * multipes of 5 with **"Buzz"**
+
+*Range (1-300)*
